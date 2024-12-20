@@ -1,0 +1,188 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Frédéric Navez",
+    "label": "Machine Learning Engineer",
+    "image": "/avatar.png",
+    "email": "frederic.navez@iscience.dev",
+    "url": "https://www.gcxstudio.cn",
+    "summary": "Data Wizard 🧙‍♂️ Breaking algorithms like others break beats, I dance between code and neural networks. Turning raw data into digital poetry, crafting AI stories no one's ever heard before. Tech poet with a passion for pushing machine learning's wildest boundaries 🚀",
+    "theme": "red",
+    "location": {
+      "city": "Sidney",
+      "countryCode": "AUS",
+      "region": "Australia"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "icon": "mdi:linkedin",
+        "username": "iScience",
+        "url": "https://www.linkedin.com/in/frederic-navez/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "iScience",
+        "url": "https://github.com/i-Science"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "iScience",
+        "url": "https://github.com/i-Science"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Master of Science - Machine Learning Engineer",
+      "url": "https://datascientest.com/en/machine-learning-engineer-course",
+      "area": "DataScientest",
+      "studyType": "Full-time student",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "institution": "Master of Science - Bioinformatics",
+      "url": "https://master-biologie-sante.univ-lille.fr/en/parcours-pph-en",
+      "area": "University of Lille",
+      "studyType": "Full-time student",
+      "startDate": "2019",
+      "endDate": "2022"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "SQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": ["Virtual Environments", "Backend"]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": ["Scripting", "Automation"]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": ["OS", "Scripting", "Automation"]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+    }
+  ],
+
+  "work": [
+    {
+      "name": "INSERM",
+      "position": "Data Scientist",
+      "location_type": "Full time",
+      "location": "France",
+      "url": "https://www.inserm.fr/en/home/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Contributed to development iterations within a team to meet project requirements",
+      "highlights": ["Enhanced internal workflow efficiency by 30%."],
+      "responsibilities": [
+        "Automated data analysis and utilisation to enhance operational efficiency"
+      ],
+      "achievements": [
+        "Transformed data into actionable insights, enabling more effective and informed decision-making"
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain"]
+    }
+  ],
+  "references": [
+    {
+      "name": "MiraHikari",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sentiment Analysis",
+      "image": {
+        "url": "https://i.imgur.com/5WS4ob4.jpeg@1e_1c.webp",
+        "position": "container",
+        "dark": "https://i.imgur.com/5WS4ob4.jpeg100q_1e_1c.webp"
+      },
+      "isActive": true,
+      "description": "Implemented a containerised sentiment analysis model API for customer reviews from e-commerce sites into a production environment, improving customer satisfaction and optimising business strategies",
+      "highlights": [
+        "🎯 Privacy-friendly, no registration required, out-of-the-box",
+        "✨ Support saving passwords and retrieving email addresses",
+        "😄 Support multiple domain name suffixes",
+        "🚀 100% open source, fully based on Cloudflare."
+      ],
+      "url": "https://github.com/i-Science/MLOps_SentimentAnalysis",
+      "github": "https://github.com/i-Science/MLOps_SentimentAnalysis"
+    },
+    {
+      "name": "Classification of Blood Cells",
+      "image": {
+        "url": "https://i.imgur.com/eMckYwE.jpeg@100q_1e_1c.webp",
+        "position": "container",
+        "dark": "https://i.imgur.com/eMckYwE.jpeg@100q_1e_1c.webp"
+      },
+      "isActive": true,
+      "description": "Implemented computer vision algorithms (LeNet, EfficientNet, VGG16, Transfer Learning) to identify 17,092 images of blood cells, enhancing diagnostic accuracy and medical analysis efficiency",
+      "highlights": [
+        "👌 More than 1000 people participated, system runs normally",
+        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
+        "😊 Windows-like interface",
+        "💕 Based on Astro"
+      ],
+      "url": "https://github.com/i-Science/PyntOfBlood/tree/master",
+      "github": "https://github.com/i-Science/PyntOfBlood/tree/master"
+    }
+  ]
+}
